@@ -12,7 +12,7 @@
 
 - **Consulta Bancaria**
 
-- **Consultas DDD**
+- **Consultas DDD** 83986172426
 
 - **Situação sobre a covid19**
 
@@ -31,4 +31,5 @@ sudo apt-get install -y git
 git clone git@github.com:cookieukw/Clownters.git
 cd Clownters
 bash start.sh
+
 ```
